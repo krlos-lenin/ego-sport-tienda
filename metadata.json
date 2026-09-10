@@ -1,0 +1,6 @@
+{
+  "name": "Tienda Zapatillas",
+  "description": "Tienda de zapatillas para consultar catálogo, gestionar inventario por tallas, realizar pedidos de compra/venta y registrar automáticamente pagos recibidos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
